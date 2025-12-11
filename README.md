@@ -68,7 +68,7 @@ The project follows a Star Schema, with Sales acting as the central fact table.
 
 # Star Schema (Data Model)
 
-![Star Schema](data_model/star_schema.png)
+![Star Schema](https://github.com/rameshnelaparthi777-cell/Retail-Revenue-Analytics-PowerBI-SQL/blob/main/star_schema.png) 
 
 # Tools Used
 
@@ -106,13 +106,14 @@ Your SQL file will be included in:
 
 # Power BI Dashboards
 
-Screenshots of the three dashboards are included in the dashboards/ folder:
+## Executive Summary
+![DASHBOARD](https://github.com/rameshnelaparthi777-cell/Retail-Revenue-Analytics-PowerBI-SQL/blob/main/executive_summary.png )
 
-Executive Summary
+## Forecast & Pricing
+![DASHBOARD](https://github.com/rameshnelaparthi777-cell/Retail-Revenue-Analytics-PowerBI-SQL/blob/main/forecast_pricing.png  )
 
-Forecast & Pricing
-
-Customer Analytics
+## Customer Analytics
+![DASHBOARD](https://github.com/rameshnelaparthi777-cell/Retail-Revenue-Analytics-PowerBI-SQL/blob/main/customer_analytics.png)
 
 # Advanced Power BI Features Used
 
