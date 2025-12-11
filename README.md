@@ -102,7 +102,7 @@ Top-selling products
 
 Your SQL file will be included in:
 
- sql/retail_sales_analysis.sql
+ https://github.com/rameshnelaparthi777-cell/Retail-Revenue-Analytics-PowerBI-SQL/blob/main/SQL%20QUERIES%20%26%20OUTPUTS.pdf
 
 # Power BI Dashboards
 
